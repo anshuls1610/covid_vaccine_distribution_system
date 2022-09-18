@@ -1,1 +1,1 @@
-# vaccine_distribution_system
+# covid_vaccine_distribution_system
