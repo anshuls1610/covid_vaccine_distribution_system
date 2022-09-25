@@ -3,11 +3,12 @@
 
 ### Team Members
 
-Anshul Tarun Sharma			- sharma.ansh@northeastern.edu
-Janvi Mehta 						- mehta.janv@northeastern.edu
-Sarthak Jasani 					- jasani.sa@northeastern.edu
-Soham Ramesh Deshpande	- deshpande.soha@northeastern.edu
-Varun Jasani 						- jasani.va@northeastern.edu
+*
+1. Anshul Tarun Sharma			- sharma.ansh@northeastern.edu
+2. Janvi Mehta 						- mehta.janv@northeastern.edu
+3. Sarthak Jasani 					- jasani.sa@northeastern.edu
+4. Soham Ramesh Deshpande	- deshpande.soha@northeastern.edu
+5. Varun Jasani 						- jasani.va@northeastern.edu
 
 
 ### Scope
