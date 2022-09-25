@@ -3,7 +3,6 @@
 
 ### Team Members
 
-*
 1. Anshul Tarun Sharma			- sharma.ansh@northeastern.edu
 2. Janvi Mehta 						- mehta.janv@northeastern.edu
 3. Sarthak Jasani 					- jasani.sa@northeastern.edu
