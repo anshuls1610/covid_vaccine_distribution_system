@@ -23,8 +23,3 @@ To create a list of suppliers for the vaccines and purchase them and distribute 
 To create a list of people registered with their government ids and their vaccination history information.
 To create a list of hospitals with zip codes to check for availability of vaccines and book an appointment by searching for zip codes if the person is eligible to take the vaccine.
 To verify if the person is vaccinated.
-
-
-### Github Repository
-
-https://github.com/anshuls1610/covid_vaccine_distribution_system
